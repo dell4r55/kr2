@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Бразилия",
+    "vendor_code": "111",
+    "description": "молотый",
+    "price": 100,
+    "img": "images/coffee1.png"
+  },
+  {
+    "id": "2",
+    "title": "Можтано",
+    "vendor_code": "222",
+    "description": "молотый",
+    "price": 200,
+    "img": "images/cofee2.png"
+  },
+  {
+    "id": "3",
+    "title": "Серрадо",
+    "vendor_code": "333",
+    "description": "молотый",
+    "price": 300,
+    "img": "images/coffee1.png"
+  },
+  {
+    "id": "4",
+    "title": "Натти",
+    "vendor_code": "444e",
+    "description": "молотый",
+    "price": 400,
+    "img": "images/coffee1.png"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Бэрри",
+    "vendor_code": "4445e",
+    "description": "молотый",
+    "price": 400,
+    "img": "images/cofee2.png"
+  },
+  {
+    "id": "6",
+    "title": "Кэнди",
+    "vendor_code": "4446e",
+    "description": "молотый",
+    "price": 400,
+    "img": "images/coffee1.png"
+  },
+  {
+    "id": "7",
+    "title": "Кристмас",
+    "vendor_code": "4447e",
+    "description": "молотый",
+    "price": 700,
+    "img": "images/cofee2.png"
+  },
+  {
+    "id": "8",
+    "title": "Кристмас",
+    "vendor_code": "4448e",
+    "description": "молотый",
+    "price": 800,
+    "img": "images/coffee1.png"
+  },
+  {
+    "id": "9",
+    "title": "Арабика",
+    "vendor_code": "444e",
+    "description": "молотый",
+    "price": 400,
+    "img": "images/coffee1.png"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Робуста",
+    "vendor_code": "44410e",
+    "description": "молотый",
+    "price": 900,
+    "img": "images/coffee1.png"
+  },
+  {
+    "id": "11",
+    "title": "Товар 11",
+    "vendor_code": "44411e",
+    "description": "Описание 1",
+    "price": 1100,
+    "img": "images/coffee1.png"
+  }
+]
